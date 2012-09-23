@@ -1,0 +1,56 @@
+body {
+  background-image: url(/img/cardboard_flat.png); }
+
+.navbar {
+  text-shadow: none; }
+  .navbar .navbar-inner {
+    background: white;
+    border: none;
+    box-shadow: none; }
+    .navbar .navbar-inner .brand {
+      text-shadow: none;
+      color: #000; }
+      .navbar .navbar-inner .brand:hover {
+        color: #000; }
+
+.navbar-inverse .nav > li > a {
+  color: #999;
+  text-shadow: none; }
+  .navbar-inverse .nav > li > a:hover {
+    color: #000; }
+
+.welcome-video {
+  padding: 10px;
+  background-color: #ccc;
+  border-radius: 5px; }
+
+.hero-unit {
+  background-color: rgba(0, 42, 128, 0.68);
+  background-image: url(/img/straws.png); }
+  .hero-unit blockquote {
+    padding-bottom: 0; }
+
+footer {
+  margin-top: 20px;
+  padding-top: 20px;
+  background-color: #252525;
+  width: 100%;
+  color: #ccc; }
+  footer a {
+    color: #fff; }
+    footer a:hover {
+      color: #fff; }
+  footer th {
+    color: #555;
+    text-align: left; }
+  footer ul {
+    list-style: none; }
+    footer ul li {
+      line-height: 30px; }
+  footer .last-footer {
+    background-color: black;
+    color: #555;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold; }
