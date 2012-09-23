@@ -37,9 +37,9 @@ footer {
   width: 100%;
   color: #ccc; }
   footer a {
-    color: #fff; }
+    color: #ccc; }
     footer a:hover {
-      color: #fff; }
+      color: #ccc; }
   footer th {
     color: #555;
     text-align: left; }
